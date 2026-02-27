@@ -1,0 +1,11 @@
+Supplementary matrerials for solo project:
+
+Contents:
+
+Derivations:
+  1. Case studies
+  2. General solution
+  3. Solution comparisons
+  4. Equipartition theorem from single 1D quantum harmonic oscillator
+  5. Extensivity
+Code used to produce all figures.
